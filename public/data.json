@@ -1,0 +1,86 @@
+{
+  "goalData": [
+    {
+      "id": "1",
+      "text": "Lose Weight",
+      "img": "https://i.imgur.com/IvjOyeL.png",
+      "alt": "GoalGirl1"
+    },
+    {
+      "id": "2",
+      "text": "Gain Muscle",
+      "img": "https://i.imgur.com/iNvfzK3.png",
+      "alt": "GoalGirl2"
+    },
+    {
+      "id": "3",
+      "text": "Develop healthy habits",
+      "img": "https://i.imgur.com/LrRs6Cn.png",
+      "alt": "GoalGirl3"
+    },
+    {
+      "id": "4",
+      "text": "Develop healthy habits",
+      "img": "https://i.imgur.com/g8oGYag.png",
+      "alt": "GoalGirl4"
+    }
+  ],
+  "behaviorData": [
+    {
+      "id": "1",
+      "text": "I don't rest enough",
+      "img": "https://i.imgur.com/t87zokE.png",
+      "alt": "moon"
+    },
+    {
+      "id": "2",
+      "text": "I have a sweet tooth",
+      "img": "https://i.imgur.com/raSkXk1.png",
+      "alt": "donut"
+    },
+    {
+      "id": "3",
+      "text": "I have too much soda",
+      "img": "https://i.imgur.com/4jvSEbC.png",
+      "alt": "soda"
+    },
+    {
+      "id": "4",
+      "text": "I eat many salty foods",
+      "img": "https://i.imgur.com/UwjATDP.png",
+      "alt": "salt"
+    },
+    {
+      "id": "5",
+      "text": "I enjoy midnight snacks",
+      "img": "https://i.imgur.com/JmHA4Eb.png",
+      "alt": "pizza"
+    },
+    {
+      "id": "6",
+      "text": "None of the above",
+      "img": "https://i.imgur.com/XEt712G.png",
+      "alt": "pharmacy"
+    }
+  ],
+  "exerciseData": [
+    {
+      "id": "1",
+      "text": "Hardly at all"
+    },
+    {
+      "id": "2",
+      "text": "Fitness 1-2 \ntimes a week"
+    },
+    {
+      "id": "3",
+      "text": "Fitness 3-5 \ntimes a week"
+    },
+    {
+      "id": "4",
+      "text": "Fitness 3-5 \ntimes a week"
+    }
+  ]
+}
+
+
